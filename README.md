@@ -48,3 +48,25 @@ Gulp 对文件的处理采用流式读取。
 * gulp 插件资源地址 [link](http://gulpjs.com/plugins/)
 * gulp 中文站点  [link](http://www.gulpjs.com.cn/)
 
+http://www.w3ctech.com/topic/134
+前端最小化文件
+http://stackoverflow.com/questions/26719884/gulp-minify-multiple-js-files-to-one
+https://www.npmjs.com/package/gulp-minify-html
+https://www.npmjs.com/package/gulp-minify-css
+最佳实例
+http://ju.outofmemory.cn/entry/140033
+http://www.techug.com/gulp
+http://www.gulpjs.com.cn/docs/writing-a-plugin/中文官网
+https://www.npmjs.com/package/gulp-inject-string
+https://github.com/stevelacy/gulp-git
+http://www.cnblogs.com/2050/p/4198792.html  
+
+匹配语法
+* js/app.js 精确匹配文件
+* js/*.js 仅匹配js目录下的所有后缀为.js的文件
+* js/*/.js 匹配js目录及其子目录下所有后缀为.js的文件
+* !js/app.js 从匹配结果中排除js/app.js，这种方法在你想要匹配除了特殊文件之外的所有文件时非常管用
+* *.+(js|css) 匹配根目录下所有后缀为.js或者.css的文件
+
+http://www.cnblogs.com/2050/p/4198792.html
+
