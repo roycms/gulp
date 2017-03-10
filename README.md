@@ -29,15 +29,22 @@
 
 Gulp 对文件的处理采用流式读取。
 
-## Gulp 常用插件讲解 
+## Gulp 常用插件讲解 [doc](demo.md)
 
-* gulp-uglify （JS压缩） 
-* gulp-minify-css（CSS压缩）
-* gulp-minify-html（html压缩）
-* gulp-jshint（JS代码检查）
-* gulp-concat（文件合并）
-* gulp-less（编译Less）
-* gulp-sass（编译Sass）
-* gulp-imagemin（压缩图片）
-* gulp-livereload（自动刷新）
+* gulp-uglify （JS压缩） [doc](demo.md)
+* gulp-minify-css（CSS压缩）[doc](demo.md)
+* gulp-minify-html（html压缩）[doc](demo.md)
+* gulp-jshint（JS代码检查）[doc](demo.md)
+* gulp-concat（文件合并）[doc](demo.md)
+* gulp-less（编译Less）[doc](demo.md)
+* gulp-sass（编译Sass）[doc](demo.md)
+* gulp-imagemin（压缩图片）[doc](demo.md)
+* gulp-livereload（自动刷新）[doc](demo.md)
+
+## Gulp 文档资源地址及拓展阅读
+
+* gulp 安装 [link](install.md)
+* gulp 官方网站 [link](http://gulpjs.com/)
+* gulp 插件资源地址 [link](http://gulpjs.com/plugins/)
+* gulp 中文站点  [link](http://www.gulpjs.com.cn/)
 
